@@ -1,11 +1,11 @@
-# c3-tmp-r-heiroglyphics
+# blank-template
 
-![c3-tmp-r-heiroglyphics](banner.png)
+![blank-template](banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/c3-tmp-r-heiroglyphics](https://projects.raspberrypi.org/en/projects/c3-tmp-r-heiroglyphics)
+Find the project online at [projects.raspberrypi.org/en/projects/blank-template](https://projects.raspberrypi.org/en/projects/blank-template)
 
 ## Resources
-For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/c3-tmp-r-heiroglyphics/tree/master/en/resources)
+For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/blank-template/tree/master/en/resources)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
